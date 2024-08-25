@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pritha-cmd
 - 👀 I’m interested in web development and full stack development
-- 🌱 I’m currently learning coding in c and c++ with a somewhat knowledge in python 👨‍💻
+- 🌱 I’m currently learning coding in c and c++ with a moderate knowledge in python 👨‍💻
 - 💞️ I’m looking to collaborate with other web developers to explore new fields of coding :) 
 - ⚡ Fun fact: i love to draw and paint 🎨 
 
