@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pritha-cmd
-- 👀 I’m interested in dsa and ai
 - 🌱 I’m currently learning coding in java with a moderate knowledge in python 👨‍💻
 - 💞️ I’m looking to collaborate with other developers to explore new fields of coding :) 
 - ⚡ Fun fact: i love to draw and paint 🎨 
