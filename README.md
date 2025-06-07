@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/pritha-ghosal-ab489b31b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritha ghosal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pritha-ghosal-ab489b31b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritha ghosal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/prithaghosal_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prithaghosal_04" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ample_glee_18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ample_glee_18" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pritha_ghosal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pritha_ghosal" height="30" width="40" /></a>
